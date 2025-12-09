@@ -1,0 +1,3 @@
+Fialka 1	Popis fialky - je fialová a hezká	3	2026-05-12	2026-01-01
+Vánoční hvězda bez poznámky		4	2026-05-10	2026-04-01
+Sukulent v koupelně	Nezalévá se	365	2026-03-01	2026-03-01
